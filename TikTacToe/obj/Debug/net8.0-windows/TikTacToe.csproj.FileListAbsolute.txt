@@ -1,0 +1,4 @@
+D:\School\2024_SUMMER\CS3280\TikTacToe\TikTacToe\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\School\2024_SUMMER\CS3280\TikTacToe\TikTacToe\obj\Debug\net8.0-windows\App.g.cs
+D:\School\2024_SUMMER\CS3280\TikTacToe\TikTacToe\obj\Debug\net8.0-windows\TikTacToe_MarkupCompile.cache
+D:\School\2024_SUMMER\CS3280\TikTacToe\TikTacToe\obj\Debug\net8.0-windows\TikTacToe_MarkupCompile.lref
